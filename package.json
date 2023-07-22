@@ -1,0 +1,17 @@
+{
+  "name": "1-3rd-party-packages",
+  "version": "1.0.0",
+  "description": "Welcome to the Node.js Fundamental Concepts guide. Here you will find key concepts and tutorials about the powerful JavaScript runtime, Node.js.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
